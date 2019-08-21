@@ -1,0 +1,2 @@
+# JsShow
+JavaScript image slideshow
